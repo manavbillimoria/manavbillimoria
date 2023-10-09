@@ -13,4 +13,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=manavbillimoria&icon=1&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @manavbillimoria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavbillimoria)](https://holopin.io/@manavbillimoria)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
